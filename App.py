@@ -7,6 +7,9 @@ para que acepte el nombre y lo guarde
 ###
 ###
 ####
+###
+##3
+
 
 
 import tkinter as tk
